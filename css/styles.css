@@ -1,0 +1,166 @@
+body {
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+
+h1 {
+
+    color: #66bfbf;
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66bfbf;
+    font-weight: normal;
+
+}
+
+
+h3 {
+
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+hr {
+    border: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: #cfdbdb;
+    width: 10%;
+    margin: 100px auto;
+}
+
+
+/*--------------------------------------TOP CONTAINER------------------------------------------------ */
+
+
+.top {
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+
+
+}
+
+.web {
+    color: brown;
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+
+}
+
+
+/*-------------------------------------MIDDLE CONTAINER------------------------------------------- */
+
+
+
+
+.middle{
+
+    margin: 100px auto;
+}
+.about-profile{
+    font-size: x-small;
+    line-height: 2;
+}
+
+.profile-pic {
+    width: 140px;
+    height: 140px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    font-size: x-small;
+}
+
+.comp-img {
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;   
+}
+
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+
+}
+
+
+
+/*-------------------------------------BOTTOM CONTAINER------------------------------------------- */
+
+.bottom {
+    background-color: #66bfbf;
+    padding: 10px 0px 20px;
+}
+
+
+.btn {
+    color: #eaf6f6;
+    font-weight: 500;
+    border: none;
+    background-color: #66bfbf;
+    padding: 8px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif ;
+
+}
+
+.btn:hover{
+    color: black;
+}
+.contact-message {
+    width: 50%;
+    margin: 40px auto 20px;
+    line-height: 2;
+    font-size: x-small;
+    
+}
+
+.bottom-profile-name {
+    color: #eaf6f6;
+    font-size: x-small;
+    padding: 20px 0;
+    
+    
+
+}
+a{
+
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #eaf6f6;
+}
